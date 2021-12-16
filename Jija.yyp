@@ -3,6 +3,7 @@
     {"id":{"name":"projectiles","path":"scripts/projectiles/projectiles.yy",},"order":1,},
     {"id":{"name":"movement","path":"scripts/movement/movement.yy",},"order":0,},
     {"id":{"name":"s_sparkle","path":"sprites/s_sparkle/s_sparkle.yy",},"order":3,},
+    {"id":{"name":"o_camera","path":"objects/o_camera/o_camera.yy",},"order":5,},
     {"id":{"name":"s_player","path":"sprites/s_player/s_player.yy",},"order":0,},
     {"id":{"name":"solid_wall","path":"objects/solid_wall/solid_wall.yy",},"order":1,},
     {"id":{"name":"o_projectile","path":"objects/o_projectile/o_projectile.yy",},"order":2,},
