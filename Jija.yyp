@@ -1,9 +1,12 @@
 {
   "resources": [
+    {"id":{"name":"projectiles","path":"scripts/projectiles/projectiles.yy",},"order":1,},
     {"id":{"name":"movement","path":"scripts/movement/movement.yy",},"order":0,},
+    {"id":{"name":"s_sparkle","path":"sprites/s_sparkle/s_sparkle.yy",},"order":3,},
     {"id":{"name":"s_player","path":"sprites/s_player/s_player.yy",},"order":0,},
     {"id":{"name":"solid_wall","path":"objects/solid_wall/solid_wall.yy",},"order":1,},
     {"id":{"name":"o_projectile","path":"objects/o_projectile/o_projectile.yy",},"order":2,},
+    {"id":{"name":"o_sparkle","path":"objects/o_sparkle/o_sparkle.yy",},"order":4,},
     {"id":{"name":"s_projectile","path":"sprites/s_projectile/s_projectile.yy",},"order":2,},
     {"id":{"name":"s_wall","path":"sprites/s_wall/s_wall.yy",},"order":1,},
     {"id":{"name":"main_font","path":"fonts/main_font/main_font.yy",},"order":0,},

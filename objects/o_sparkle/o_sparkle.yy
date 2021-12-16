@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "s_projectile",
-    "path": "sprites/s_projectile/s_projectile.yy",
+    "name": "s_sparkle",
+    "path": "sprites/s_sparkle/s_sparkle.yy",
   },
   "solid": false,
   "visible": true,
@@ -11,11 +11,11 @@
   "physicsObject": true,
   "physicsSensor": false,
   "physicsShape": 1,
-  "physicsGroup": 1,
-  "physicsDensity": 0.5,
+  "physicsGroup": 2,
+  "physicsDensity": 0.1,
   "physicsRestitution": 0.1,
   "physicsLinearDamping": 0.1,
-  "physicsAngularDamping": 0.1,
+  "physicsAngularDamping": 500.0,
   "physicsFriction": 0.2,
   "physicsStartAwake": true,
   "physicsKinematic": false,
@@ -26,7 +26,8 @@
     {"x":0.0,"y":16.0,},
   ],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"solid_wall","path":"objects/solid_wall/solid_wall.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":2,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -35,7 +36,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "o_projectile",
+  "name": "o_sparkle",
   "tags": [],
   "resourceType": "GMObject",
 }
