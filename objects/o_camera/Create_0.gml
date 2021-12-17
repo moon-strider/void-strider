@@ -11,5 +11,9 @@ camera_set_proj_mat(camera, pm)
 view_camera[0] = camera
 
 follow = o_player
+
+x = follow.x
+y = follow.y
+
 tar_x = x
 tar_y = y

@@ -1,5 +1,9 @@
 // controls
 
+seconds = room_speed
+
+iframes = 0.5*seconds
+
 key_up = ord("W")
 key_left = ord("A")
 key_down = ord("S")
