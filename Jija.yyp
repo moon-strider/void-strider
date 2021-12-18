@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"main_menu_font","path":"fonts/main_menu_font/main_menu_font.yy",},"order":1,},
     {"id":{"name":"projectiles","path":"scripts/projectiles/projectiles.yy",},"order":1,},
     {"id":{"name":"movement","path":"scripts/movement/movement.yy",},"order":0,},
     {"id":{"name":"s_sparkle","path":"sprites/s_sparkle/s_sparkle.yy",},"order":3,},
@@ -12,7 +13,9 @@
     {"id":{"name":"o_sparkle","path":"objects/o_sparkle/o_sparkle.yy",},"order":4,},
     {"id":{"name":"s_ally","path":"sprites/s_ally/s_ally.yy",},"order":4,},
     {"id":{"name":"enemy","path":"scripts/enemy/enemy.yy",},"order":2,},
+    {"id":{"name":"o_menu_controller","path":"objects/o_menu_controller/o_menu_controller.yy",},"order":8,},
     {"id":{"name":"s_projectile","path":"sprites/s_projectile/s_projectile.yy",},"order":2,},
+    {"id":{"name":"room_main_menu","path":"rooms/room_main_menu/room_main_menu.yy",},"order":1,},
     {"id":{"name":"s_wall","path":"sprites/s_wall/s_wall.yy",},"order":1,},
     {"id":{"name":"main_font","path":"fonts/main_font/main_font.yy",},"order":0,},
     {"id":{"name":"o_controller","path":"objects/o_controller/o_controller.yy",},"order":3,},
@@ -34,6 +37,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"room_main_menu","path":"rooms/room_main_menu/room_main_menu.yy",},},
     {"roomId":{"name":"room_main_game","path":"rooms/room_main_game/room_main_game.yy",},},
   ],
   "Folders": [
