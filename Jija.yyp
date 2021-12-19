@@ -12,6 +12,7 @@
     {"id":{"name":"o_projectile","path":"objects/o_projectile/o_projectile.yy",},"order":2,},
     {"id":{"name":"o_sparkle","path":"objects/o_sparkle/o_sparkle.yy",},"order":4,},
     {"id":{"name":"s_ally","path":"sprites/s_ally/s_ally.yy",},"order":4,},
+    {"id":{"name":"o_damage_text","path":"objects/o_damage_text/o_damage_text.yy",},"order":9,},
     {"id":{"name":"enemy","path":"scripts/enemy/enemy.yy",},"order":2,},
     {"id":{"name":"o_menu_controller","path":"objects/o_menu_controller/o_menu_controller.yy",},"order":8,},
     {"id":{"name":"s_projectile","path":"sprites/s_projectile/s_projectile.yy",},"order":2,},
